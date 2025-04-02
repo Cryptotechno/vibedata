@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="800" viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shapes -->
+  <rect x="40" y="40" width="520" height="720" rx="24" fill="#F8FAFC" />
+  
+  <!-- Top Section -->
+  <rect x="60" y="80" width="480" height="280" rx="16" fill="#F4511E" fill-opacity="0.15" />
+  
+  <!-- Donut Chart -->
+  <circle cx="180" cy="220" r="100" fill="white" />
+  <path d="M180 120 A100 100 0 0 1 280 220" stroke="#E91E63" stroke-width="28" stroke-linecap="round" />
+  <path d="M280 220 A100 100 0 0 1 180 320" stroke="#F4511E" stroke-width="28" stroke-linecap="round" />
+  <path d="M180 320 A100 100 0 0 1 80 220" stroke="#E91E63" stroke-width="28" stroke-opacity="0.4" stroke-linecap="round" />
+  <path d="M80 220 A100 100 0 0 1 180 120" stroke="#F4511E" stroke-width="28" stroke-opacity="0.4" stroke-linecap="round" />
+  
+  <!-- Stats Grid -->
+  <rect x="320" y="100" width="200" height="80" rx="12" fill="white" />
+  <rect x="320" y="200" width="200" height="80" rx="12" fill="white" />
+  
+  <!-- Bottom Section -->
+  <rect x="60" y="380" width="480" height="360" rx="16" fill="#E91E63" fill-opacity="0.15" />
+  
+  <!-- Line Chart -->
+  <rect x="80" y="400" width="440" height="240" rx="12" fill="white" />
+  <path d="M100 540 C150 520, 200 560, 250 500 C300 440, 350 580, 400 520 C450 460, 500 500, 500 480" 
+        stroke="#F4511E" stroke-width="3" fill="none" />
+  <path d="M100 580 C150 560, 200 600, 250 540 C300 480, 350 620, 400 560 C450 500, 500 540, 500 520" 
+        stroke="#E91E63" stroke-width="3" fill="none" />
+  
+  <!-- Bottom Stats -->
+  <rect x="80" y="660" width="140" height="80" rx="12" fill="white" />
+  <rect x="240" y="660" width="140" height="80" rx="12" fill="white" />
+  <rect x="400" y="660" width="140" height="80" rx="12" fill="white" />
+</svg> 
